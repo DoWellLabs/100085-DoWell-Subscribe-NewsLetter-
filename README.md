@@ -114,7 +114,7 @@ After the Environment is set, next donwload, get dependency and run the App
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## How to use the app
+## use_the_app
 
 1. <p>go to published web <a href="https://dowell-newsletter.flutterflow.app/">link</a></p>
     
@@ -135,7 +135,7 @@ After the Environment is set, next donwload, get dependency and run the App
 
 
 <!-- CONTACT -->
-## api_documentation
+## api_doc
 
 the project is integrated with Dowell Newsletter Api
 
