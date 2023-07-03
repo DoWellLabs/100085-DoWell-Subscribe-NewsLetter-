@@ -46,7 +46,6 @@
     <li><a href="#How-to-use-the-app">How to use the app</a></li>
     <li><a href="#project">Go to the Project</a></li>
     <li><a href="#api_documentation">Api Documetation</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
