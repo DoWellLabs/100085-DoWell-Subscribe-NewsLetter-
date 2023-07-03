@@ -43,7 +43,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#use_the_app">How to use the app</a></li>
+    <li><a href="#How to use the App">How to use the app</a></li>
     <li><a href="#project">Go to the Project</a></li>
     <li><a href="#api_doc">Api Documetation</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -135,11 +135,11 @@ After the Environment is set, next donwload, get dependency and run the App
 
 
 <!-- CONTACT -->
-## api_doc
+## How to use the App
 
 the project is integrated with Dowell Newsletter Api
 
-<p>the link for the Api documentation <a href="https://github.com/orgs/DoWellUXLab/">Dowell NewsLatter Api documentation</a></p>
+<p>the link for the Api documentation <a href="https://github.com/DoWellLabs/100085-DoWell-Subscribe-NewsLetter-/">Dowell NewsLatter Api documentation</a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
