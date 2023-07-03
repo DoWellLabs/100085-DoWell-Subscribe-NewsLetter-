@@ -20,7 +20,7 @@
   <p align="center">
     Dowell NewsLetter Subscription App
     <br />
-    <a href="https://dowell-newsletter-test.flutterflow.app/">View Published Web app</a>
+    <a href="https://dowell-newsletter.flutterflow.app/">View Published Web app</a>
   </p>
 </div>
 
