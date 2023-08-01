@@ -20,6 +20,7 @@ export const Home = () => {
           </li>
         </ul>
       </nav>
+      
       <div className="text-white">
         <div className="pt-12 text-center">
           <h1 className="text-xl text-sky-500">
